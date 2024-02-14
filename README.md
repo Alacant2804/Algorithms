@@ -25,4 +25,4 @@ The `Hashmap` class implements a hashmap, also known as a hash table, which is a
 
 The `LinkedList` class implements a singly linked list, a linear data structure consisting of a sequence of elements where each element points to the next one in the sequence.
 
-##Feel free to explore each data structure and algorithm implementation for more details and usage examples.
+**Feel free to explore each data structure and algorithm implementation for more details and usage examples.**
